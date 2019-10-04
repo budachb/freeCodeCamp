@@ -9,7 +9,7 @@ videoUrl: 'https://scrimba.com/p/pVMPUv/cE8Gqf3'
 <section id='description'>
 Over the next few lessons, we'll build an HTML5 cat photo web app piece-by-piece.
 The <code>h2</code> element you will be adding in this step will add a level two heading to the web page.
-This element tells the browser about the structure of your website. <code>h1</code> elements are often used for main headings, while <code>h2</code> elements are generally used for subheadings. There are also <code>h3</code>, <code>h4</code>, <code>h5</code> and <code>h6</code> elements to indicate different levels of subheadings.
+This element tells the browser about the structure of your website. <code>h1</code> elements are often used for main headings, while <code>h2</code> elements are generally used for subheadings. There are also <code>h3</code>, <code>h4</code>, <code>h5</code> and <code>h6</code> elements to indicate different levels of subheadings. With <code>h1</code> being the largest and <code>h6</code> being the smallest.
 </section>
 
 ## Instructions
