@@ -7,7 +7,7 @@ videoUrl: 'https://scrimba.com/p/pVMPUv/cmQ3Kfa'
 
 ## Description
 <section id='description'>
-You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an action on your <code>form</code> element.
+You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an <code>action</code> property on your <code>form</code> element.
 For example:
 <code>&#60;form action="/url-where-you-want-to-submit-form-data"&#62;&#60;/form&#62;</code>
 </section>
