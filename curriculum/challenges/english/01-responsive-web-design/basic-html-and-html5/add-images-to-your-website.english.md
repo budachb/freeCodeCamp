@@ -11,7 +11,7 @@ videoUrl: 'https://scrimba.com/p/pVMPUv/c8EbJf2'
 You can add images to your website by using the <code>img</code> element, and point to a specific image's URL using the <code>src</code> attribute.
 An example of this would be:
 <code>&#60img src="https://www.your-image-source.com/your-image.jpg"&#62</code>
-Note that <code>img</code> elements are self-closing.
+Note that <code>img</code> elements are self-closing. Which means they dont need a closing <code>&#60/img&#62 tag</code>.
 All <code>img</code> elements <strong>must</strong> have an <code>alt</code> attribute. The text inside an <code>alt</code> attribute is used for screen readers to improve accessibility and is displayed if the image fails to load.
 Note: If the image is purely decorative, using an empty <code>alt</code> attribute is a best practice.
 Ideally the <code>alt</code> attribute should not contain special characters unless needed.
