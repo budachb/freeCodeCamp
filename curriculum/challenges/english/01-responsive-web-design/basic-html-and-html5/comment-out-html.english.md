@@ -7,7 +7,7 @@ videoUrl: 'https://scrimba.com/p/pVMPUv/cGyGbca'
 
 ## Description
 <section id='description'>
-Remember that in order to start a comment, you need to use <code>&#60;!--</code> and to end a comment, you need to use <code>--&#62;</code>
+Remember that in order to start a comment, you need to use <code>&#60;!--</code> and to end a comment, you need to use <code>--&#62;</code>.
 Here you'll need to end the comment before your <code>h2</code> element begins.
 </section>
 
